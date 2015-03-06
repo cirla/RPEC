@@ -1,0 +1,5 @@
+[submodule "origin"]
+	path = deps/RxCpp
+	url = https://github.com/cirla/RxCpp.git
+    branch = development
+
